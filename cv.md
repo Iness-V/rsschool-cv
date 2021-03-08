@@ -11,3 +11,9 @@ while (i < 3) { // выводит 0, затем 1, затем 2
   i++;
 }
 ```
+* Experience: 
+
+      * lecturer at  Minsk Planetarium, 2017 - to the present
+      * Physics teacher at  Vitebsk Secondary School №31, 2012-2016 
+* Education: **Vitebsk State University named after P.M. Masherov, 2012 *(Physics and Mathematics Teacher)* ** 
+* English: **Intermediate**
