@@ -1,0 +1,18 @@
+body {
+	background-color: #95cebd;
+   
+}
+img.photo {
+    display: block;
+    margin: 0 auto;
+}
+.container {
+    width: 25%;
+    margin: 0 auto;
+}
+.cv > h1 {
+    text-align:center;
+}
+.name > h2 {
+    text-align:center;
+}
